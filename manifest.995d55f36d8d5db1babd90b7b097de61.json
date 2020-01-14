@@ -1,0 +1,10 @@
+{
+  "name": "LAMJ Admin",
+  "short_name": "LAMJ Admin",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "LAMJ Admin project",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
